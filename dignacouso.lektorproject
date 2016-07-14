@@ -1,4 +1,4 @@
 [project]
 name = dignacouso
 [servers.ghpages]
-target = ghpages://dignacouso/dignacouso.github.io
+target = ghpages+https://DignaCouso/dignacouso-www
